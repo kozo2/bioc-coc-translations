@@ -1,92 +1,96 @@
 # ![](/images/icons/magnifier.gif)Bioconductorのプロジェクト全体の行動規範の声明
 
-([BioC 2020 の行動規範](https://bioc2020.bioconductor.org/code_of_conduct) から採用)
+([BioC 2020 の行動規範] から採用)
 
 # 行動規範
 
-**Version 1.0.1 (November 25, 2020)**
+**バージョン1.0.1（2020年11月25日）**
 
-- Initial project-wide Code of Conduct, expanded from previous conference-specific documents
+- 以前の会議固有のドキュメントから拡張された、プロジェクト全体の最初の行動規範
 
-The Bioconductor community values
+バイオコンダクターコミュニティの価値観
 
-- an open approach to science that promotes the sharing of ideas, code, and expertise
-- collaboration
-- diversity and inclusivity
-- a kind and welcoming environment
-- community contributions
+- アイデア、コード、専門知識の共有を促進する科学へのオープンなアプローチ
+- コラボレーション
+- 多様性と包括性
+- 親切で居心地の良い環境
+- コミュニティの貢献
 
-In line with these values, Bioconductor is dedicated to providing a welcoming, supportive, collegial, experience free of harassment, intimidation, and bullying regardless of:
+これらの価値観に沿って、Bioconductorは、以下に関係なく、嫌がらせ、脅迫、いじめのない、歓迎的で協力的で協力的な体験を提供することに専念しています。
 
-- identity: gender, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, body size, race, age, religion, etc.
-- intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, etc.
-- stage of career
+- アイデンティティ：性別、性同一性と表現、性的指向、障害、容貌、民族性、体の大きさ、人種、年齢、宗教など。
+- 知的地位：データ分析へのアプローチ、ソフトウェアの好み、コーディングスタイル、科学的視点など。
+- キャリアの段階
 
-By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities) or electronic communication channel (including but not limited to community-bioc Slack, the support site, online forums and social media communications).
+このコミュニティに参加することにより、Bioconductorが主催するイベント（直接または仮想、トーク、ワークショップ、ポスターセッション、ソーシャルアクティビティを含むがこれらに限定されない）または電子通信チャネル（以下を含む）でこれらの価値観に反する行動をとらないことに同意するものとします。ただし、コミュニティバイオックスラック、サポートサイト、オンラインフォーラム、ソーシャルメディアコミュニケーションに限定されません。
 
-We do not tolerate harassment, intimidation, or bullying of community members. Sexual language and imagery are not appropriate in presentations, communications or in online venues, including chats.
+コミュニティメンバーへの嫌がらせ、脅迫、いじめは容認しません。性的な言葉や画像は、プレゼンテーション、コミュニケーション、またはチャットを含むオンラインの場では適切ではありません。
 
-Any person/s violating the Code of Conduct may be sanctioned or expelled temporarily or permanently from an electronic platform or event at the discretion of the Code of Conduct committee.
+行動規範に違反する人は、行動規範委員会の裁量により、一時的または恒久的に電子プラットフォームまたはイベントから制裁または追放される場合があります。
 
-**Examples of unacceptable harassment, intimidation, and bullying behavior.**
+**容認できない嫌がらせ、脅迫、いじめ行為の例。**
 
-Harassment includes, but is not limited to:
+ハラスメントには以下が含まれますが、これらに限定されません。
 
-- Making comments in chats, to an audience or personally, that belittle or demean another person
-- Sharing sexual images online
-- Harassing photography or recording
-- Sustained disruption of talks or other events
-- Unwelcome sexual attention
-- Advocating for, or encouraging, any of the above behavior
+- チャットで、聴衆に、または個人的に、他の人を軽蔑したり侮辱したりするコメントをする
+- 性的な画像をオンラインで共有する
+- 嫌がらせの写真や録音
+- 話し合いやその他のイベントの持続的な混乱
+- 歓迎されない性的注意
+- 上記の行動のいずれかを支持または奨励する
 
-Intimidation and bullying include, but are not limited to:
+脅迫やいじめには次のものが含まれますが、これらに限定されません。
 
-- Aggressive or browbeating behavior
-- Mocking or insulting another person’s intellect, work, perspective, or question/comment
-- Making reference to someone’s gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or other personal attributes in the context of a scientific discussion
-- Deliberately making someone feel unwelcome
-- Trolling behaviour (deliberately inflammatory of offensive messages)
-- Sustained off-topic posts
+- 攻撃的または乱暴な行動
+- 他人の知性、仕事、視点、または質問/コメントを嘲笑または侮辱する
+- 科学的議論の文脈で、誰かの性別、性同一性と表現、性的指向、障害、容貌、体の大きさ、人種、年齢、宗教、またはその他の個人的属性に言及する
+- 故意に誰かを歓迎されないと感じさせる
+- トローリング行動（攻撃的なメッセージを故意に扇動する）
+- 持続的なトピック外の投稿
 
-**Enforcement**
+**執行**
 
-Anyone asked to stop harassing or intimidating behavior are expected to comply immediately.
+嫌がらせや脅迫的な行動をやめるように求められた人は、すぐに従うことが期待されます。
 
-If a person/s contravene the Code of Conduct the Code of Conduct committee retains the right to take any action that ensures a welcoming environment for all community members. This includes warning the alleged offender or temporary/permanent expulsion from the event and/or electronic platforms under Bioconductor’s control.
+人が行動規範に違反した場合、行動規範委員会は、すべてのコミュニティメンバーが快適な環境を確保するための行動を取る権利を保持します。これには、Bioconductorの管理下にあるイベントおよび/または電子プラットフォームからの犯罪者または一時的/恒久的な追放の警告が含まれます。
 
-The Code of Conduct committee may take action to redress anything designed to, or with the clear impact of, disrupting an event or electronic communication platform or making the environment hostile for any community member.
+行動規範委員会は、イベントや電子通信プラットフォームを混乱させたり、コミュニティメンバーにとって環境を敵対的にしたりするように設計された、または明確な影響を与えたものを是正するための措置を講じることがあります。
 
-We expect everyone in the Bioconductor community to comply with the Code of Conduct when participating in Bioconductor events and online communication platforms.
+Bioconductorコミュニティのすべての人が、Bioconductorイベントやオンラインコミュニケーションプラットフォームに参加する際に、行動規範を遵守することを期待しています。
 
-**Reporting**
+**報告**
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. You can make a report either anonymously or personally. All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
+誰かがあなたや他の誰かに危険や歓迎されないと感じさせた場合は、できるだけ早く報告してください。匿名または個人的にレポートを作成できます。すべての報告は、行動規範委員会によってレビューされ、機密が保持されます。
 
-*Electronically*
+*電子的に*
 
-You can make an anonymous or non-anonymous report via the following link: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint). It is a free-form text box that will be forwarded to the Code of Conduct Committee. Alternatively you can email the Code of Conduct Committee (code-of-conduct@bioconductor.org). If you are uncomfortable reporting to the Code of Conduct committee as a group, you can contact any individual committee member via email or a direct message on the community-bioc Slack channel. Please include screenshots/copies of all relevant electronic conversations whenever possible (you don’t need to compromise your anonymity!).
+次のリンクから匿名または非匿名のレポートを作成できます： [https] ：//tinyurl.com/bioccomplaint。これは、行動規範委員会に転送される自由形式のテキストボックスです。または、行動規範委員会（code-of-conduct@bioconductor.org）に電子メールを送信することもできます。グループとしての行動規範委員会への報告に不安がある場合は、コミュニティバイオックスラックチャネルで電子メールまたはダイレクトメッセージを介して個々の委員会メンバーに連絡できます。可能な限り、関連するすべての電子会話のスクリーンショット/コピーを含めてください（匿名性を損なう必要はありません！）。
 
-We can’t follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
+匿名の報告を直接フォローアップすることはできませんが、十分に調査し、再発を防ぐために必要な措置を講じます。
 
-*Personal Report (for any Bioconductor events: in-person or virtual)*
+*個人レポート（Bioconductorイベントの場合：対面または仮想）*
 
-You can make a personal report to any member of the event Code of Conduct committee present at an event.
+イベントに出席しているイベント行動規範委員会のメンバーに個人的な報告をすることができます。
 
-When taking a personal report, we will ensure you are safe and cannot be overheard. We may involve other event staff to ensure your report is managed properly. Once safe, we’ll ask you to tell us about what happened. This can be upsetting, but we’ll handle it as respectfully as possible, and you can bring someone to support you. You won’t be asked to confront anyone, and we won’t tell anyone who you are.
+個人的な報告をするとき、私たちはあなたが安全であり、耳にされないことを保証します。レポートが適切に管理されるように、他のイベントスタッフが関与する場合があります。安全になったら、何が起こったのか教えてください。これは動揺する可能性がありますが、可能な限り丁寧に対応し、誰かにサポートしてもらうことができます。あなたは誰かに立ち向かうように求められることはありませんし、あなたが誰であるかを誰にも教えません。
 
-Our team will be happy to help you get the relevant support (e.g. help contacting hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event).
+私たちのチームは、お客様が関連するサポートを受けるのを喜んでお手伝いします（たとえば、ホテル/会場のセキュリティ、地域の法執行機関、地域のサポートサービスへの連絡、エスコートの提供、またはイベント期間中の安全を確保するための支援）。
 
-We value your attendance and participation at Bioconductor events and in our community.
+私たちは、Bioconductorイベントおよび私たちのコミュニティへの参加と参加を大切にしています。
 
-## Code of Conduct Committee
+## 行動規範委員会
 
-- (Chair) Saskia Freytag sas.freytag@gmail.com
+- （議長）Saskia Freytag sas.freytag@gmail.com
 - Yagoub Adam yagoub@alumni.usp.br
-- Leonardo Collado-Torres lcolladotor@gmail.com
-- Aedín Culhane aedin@ds.dfci.harvard.edu
-- Laurent Gatto laurent.gatto@gmail.com
-- Stephanie Hicks shicks19@jhu.edu
-- Johannes Rainer johannes.rainer@eurac.edu
-- Matthew Ritchie mritchie@wehi.edu.au
+- レオナルドコラード-Torreslcolladotor@gmail.com
+- AedínCulhaneaedin@ds.dfci.harvard.edu
+- ローレントガットlaurent.gatto@gmail.com
+- ステファニーヒックスshicks19@jhu.edu
+- ヨハンズ・レイナーjohannes.rainer@eurac.edu
+- マシュー・リッチーmritchie@wehi.edu.au
 - Charlotte Soneson charlottesoneson@gmail.com
 - Levi Waldron lwaldron.research@gmail.com
+
+
+[BioC 2020 の行動規範]: https://bioc2020.bioconductor.org/code_of_conduct
+[https]: https://tinyurl.com/bioccomplaint
